@@ -1,6 +1,6 @@
 "
-I provide the API of the whole Compiler Package for the case that the input is sourcecode.
-(if there is alreay and AST, call #generate (to compile) or #evaluate directly on the node)
+I provide the API of the whole Compiler Package for when the input is sourcecode.
+(if there is already an AST, call #generate (to compile) or #evaluate directly on the node)
 
 a pre-configures compiler instance can be requested with: 
  - Smalltalk compiler
